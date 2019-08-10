@@ -5,6 +5,7 @@ comments: true
 categories: 架构
 tags:
     - watch
+    - 大型网站技术架构：核心原理与案例分析
 ---
 
 # 性能—响应时间决定用户

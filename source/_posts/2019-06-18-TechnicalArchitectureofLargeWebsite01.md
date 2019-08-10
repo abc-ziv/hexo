@@ -1,10 +1,11 @@
 ---
-title: "大型网站架构的特点及演化"
+title: "《大型网站技术架构》--大型网站架构的特点及演化"
 date: 2019-06-18
 comments: true
 categories: 架构
 tags:
     - watch
+    - 大型网站技术架构：核心原理与案例分析
 ---
 # 大型网站的特点
 * `高并发`、`大流量`：PV(page view)量巨大
