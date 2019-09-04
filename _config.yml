@@ -97,3 +97,9 @@ search:
   field: post
   format: html
   limit: 10000
+
+lazyload:
+  enable: true
+  onlypost: false
+  # className: #可选 e.g. .J-lazyload-img
+  # loadingImg: #可选 eg. ./images/loading.png
