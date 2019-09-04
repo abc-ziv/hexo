@@ -101,4 +101,4 @@ search:
 lazyload:
   enable: true 
   onlypost: false
-  loadingImg: /images/loading.gif
+  loadingImg: /images/loading.jpeg
